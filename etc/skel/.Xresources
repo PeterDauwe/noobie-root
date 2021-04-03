@@ -1,5 +1,5 @@
 ! ------------------------------------------------------------------------------
-! xterm standard arcolinux theme
+! xterm standard arcobobo theme
 ! ------------------------------------------------------------------------------
 ! https://critical.ch/xterm/
 ! ------------------------------------------------------------------------------
@@ -35,7 +35,7 @@ xterm*boldMode: false
 
 
 ! ------------------------------------------------------------------------------
-! URxvt standard arcolinux theme - Reload with xrdb -merge ~/.Xresources
+! URxvt standard arcobobo theme - Reload with xrdb -merge ~/.Xresources
 ! ------------------------------------------------------------------------------
 
 
@@ -136,7 +136,7 @@ URxvt*keysym.Control-Shift-V: perl:clipboard:paste
 
 
 ! ------------------------------------------------------------------------------
-! UXTerm standard arcolinux theme
+! UXTerm standard arcobobo theme
 ! ------------------------------------------------------------------------------
 
 
