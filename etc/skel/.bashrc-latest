@@ -237,7 +237,7 @@ ex ()
 
 # reporting tools - install when not installed
 # install neofetch
-bofetch
+#neofetch
 # install screenfetch
 #screenfetch
 # install ufetch-git
@@ -248,3 +248,5 @@ bofetch
 #paleofetch
 # install alsi
 #alsi
+
+sfetch
